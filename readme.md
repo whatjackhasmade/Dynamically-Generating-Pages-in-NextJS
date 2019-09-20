@@ -5,3 +5,5 @@ Previous to NextJS 9, implementing dynamic routes for your NextJS setup was a bi
 With the introduction of NextJS 9, you can now dynamically create routes for your site in under 10 minutes with a little configuration.
 
 I've setup a guide on how to do just that with a real-world example using my WordPress setup. The WordPress setup uses custom endpoints but these will work with the default REST endpoints introduced in WordPress 4.7.0.
+
+Read the full guide at - https://whatjackhasmade.co.uk/dynamic-routes-nextjs
