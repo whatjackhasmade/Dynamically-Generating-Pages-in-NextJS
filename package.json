@@ -1,0 +1,23 @@
+{
+	"name": "dynamic-next",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Jack Prithchard (@whatjackhasmade)",
+	"license": "ISC",
+	"dependencies": {
+		"babel-plugin-styled-components": "^1.10.6",
+		"isomorphic-fetch": "^2.2.1",
+		"next": "^9.0.6",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0",
+		"styled-components": "^4.3.2"
+	}
+}
